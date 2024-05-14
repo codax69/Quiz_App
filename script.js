@@ -2,7 +2,7 @@
 const Question = [
   {
     key: "1",
-    question: "What is the capital of India?",
+    question: "what is the capital of India?",
     answer: [
       {
         text: "New Delhi",
